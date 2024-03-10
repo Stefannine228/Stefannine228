@@ -12,9 +12,6 @@ I am a beginner full-stack developer
 
   <div id="badges">
     <a href="#">
-      <img src="https://img.icons8.com/color/48/vk-com.png" width="40" height="40" alt="VK" />
-    </a>
-    <a href="#">
       <img src="https://img.icons8.com/color/48/telegram-app--v1.png" width="40" height="40" alt="Telegram"/>
     </a>
     <a href="#" target="_blank">
