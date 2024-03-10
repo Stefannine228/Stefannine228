@@ -1,4 +1,4 @@
-# Hello! My name is Kirill!
+# Hello! My name is Stefan!
 
 ---
 
@@ -11,13 +11,13 @@ I am a beginner full-stack developer
 ### 🤝 Social:
 
   <div id="badges">
-    <a href="https://vk.com/urumadev" target="_blank">
+    <a href="#">
       <img src="https://img.icons8.com/color/48/vk-com.png" width="40" height="40" alt="VK" />
     </a>
-    <a href="https://t.me/urumadev" target="_blank">
+    <a href="#">
       <img src="https://img.icons8.com/color/48/telegram-app--v1.png" width="40" height="40" alt="Telegram"/>
     </a>
-    <a href="https://discord.com/users/232476435451740160" target="_blank">
+    <a href="#" target="_blank">
       <img src="https://img.icons8.com/color/48/discord-logo.png" alt="discord-logo" width="40" height="40" alt="Zen Badge"/>
     </a>
   </div>
