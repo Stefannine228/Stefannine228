@@ -52,23 +52,3 @@ I am a beginner full-stack developer
   <img src="https://user-images.githubusercontent.com/92434610/137111602-71118494-37cb-46a7-870f-e80716f72286.png" title="termius" alt="termius" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
 </div>
-
-
-### 💻 Codewars:
-
-![codewars](https://www.codewars.com/users/Urumadev/badges/large)
-
-### ⚙️ GitHub статистика:
-
-<table>
-  <tr>
-    <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=urumadev&theme=dark&background=000000" alt="webDev's Github stats" />
-    </td>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=urumadev&layout=compact&theme=vision-friendly-dark" />
-    </td>
-  </tr>
-</table>
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=urumadev)
